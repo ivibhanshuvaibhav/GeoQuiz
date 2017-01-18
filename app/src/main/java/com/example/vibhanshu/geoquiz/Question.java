@@ -1,9 +1,5 @@
 package com.example.vibhanshu.geoquiz;
 
-/**
- * Created by Vibhanshu on 19/12/16.
- */
-
 public class Question {
 
     private int mTextResId;
